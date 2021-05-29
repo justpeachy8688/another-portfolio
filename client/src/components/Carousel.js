@@ -30,38 +30,38 @@ class Carousel extends React.Component {
                 link: 'https://github.com/noheropage/lets-add-venture',
                 selected: false
             },
+            // {
+            //     id: 2,
+            //     title: 'Weather Dashboard',
+            //     subTitle: 'Weather App that leverages Open Weather Map API data',
+            //     imgSrc: weather,
+            //     link: 'https://justpeachy8688.github.io/weather-dashboard/',
+            //     selected: false
+            // },
             {
                 id: 2,
-                title: 'Weather Dashboard',
-                subTitle: 'Weather App that leverages Open Weather Map API data',
-                imgSrc: weather,
-                link: 'https://justpeachy8688.github.io/weather-dashboard/',
-                selected: false
-            },
-            {
-                id: 3,
                 title: 'Envision',
                 subTitle: 'Helps teachers and students connect in the community through Art.',
                 imgSrc: envision,
                 link: 'https://wow-envision.herokuapp.com/',
                 selected: false
             },
-            {
-                id: 4,
-                title: 'Work Day Scheduler',
-                subTitle: 'Simple calendar app but powered by JQuery',
-                imgSrc: scheduler,
-                link: 'https://justpeachy8688.github.io/work-day-scheduler/',
-                selected: false
-            },
-            {
-                id: 5,
-                title: 'Team Mate',
-                subTitle: 'Node.js App that takes in info about employees on a Software Engineering team, and generates their summaries in an HTML webpage.',
-                imgSrc: teamMate,
-                link: 'https://github.com/justpeachy8688/team-mate',
-                selected: false
-            },
+            // {
+            //     id: 4,
+            //     title: 'Work Day Scheduler',
+            //     subTitle: 'Simple calendar app but powered by JQuery',
+            //     imgSrc: scheduler,
+            //     link: 'https://justpeachy8688.github.io/work-day-scheduler/',
+            //     selected: false
+            // },
+            // {
+            //     id: 5,
+            //     title: 'Team Mate',
+            //     subTitle: 'Node.js App that takes in info about employees on a Software Engineering team, and generates their summaries in an HTML webpage.',
+            //     imgSrc: teamMate,
+            //     link: 'https://github.com/justpeachy8688/team-mate',
+            //     selected: false
+            // },
         ]
     }
 
@@ -81,7 +81,7 @@ class Carousel extends React.Component {
     }
     makeItems = (items) => {
         return items.map(item => {
-            return <Card item={item} onClick={(e => this.handleCardClick(item, id, e))} key={item.id} />
+            return <Card item={item} onClick={(e => this.handleCardClick(item.id, e))} key={item.id} />
         })
 
     }
