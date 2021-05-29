@@ -33,3 +33,7 @@ code {
   font-size: 16px;
   margin: 0px;
 }
+
+.view {
+  text-decoration: none;
+}

@@ -39,7 +39,7 @@ class App extends React.Component {
     return (
       <Router>
         <Container className='p-1 main-content' fluid={true}>
-          <Navbar className="border-bottom" bg="transparent" expand="lg">
+          <Navbar className="navbar-dark" bg="transparent" expand="lg">
             <Navbar.Brand>Taylor Sanders</Navbar.Brand>
             <Navbar.Toggle className="border-0" aria-controls="navbar-toggle" />
             <Navbar.Collapse id="navbar-toggle">
