@@ -7,7 +7,7 @@ function AboutPage(props) {
         <div>
             <Hero title={props.title} />
             <Content>
-                Full Stack Developer who studied at the University of Washington. I currently live in Anchorage, Alaska.
+                    Full Stack Developer who studied at the University of Washington. I currently live in Anchorage, Alaska.
                 As I've grown as a developer, I have worked alongside many talented developers and designers who have
                 raised my standards for what's expected of any application.
                 Through these experiences, I've had the opportunity to create memorable products that are not only

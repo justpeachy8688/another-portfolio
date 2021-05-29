@@ -32,6 +32,10 @@
   color: rgb(168, 186, 219);
 }
 
-.about-me-title {
-  justify-content: center;
+.about-paragraph {
+  font-size: 24px;
+}
+
+.text-center {
+  font-weight: 700;
 }
