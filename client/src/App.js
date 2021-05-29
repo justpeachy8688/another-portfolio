@@ -38,7 +38,7 @@ class App extends React.Component {
   render() {
     return (
       <Router>
-        <Container className='p-1' fluid={true}>
+        <Container className='p-1 main-content' fluid={true}>
           <Navbar className="border-bottom" bg="transparent" expand="lg">
             <Navbar.Brand>Taylor Sanders</Navbar.Brand>
             <Navbar.Toggle className="border-0" aria-controls="navbar-toggle" />
@@ -50,9 +50,9 @@ class App extends React.Component {
               </Nav>
             </Navbar.Collapse>
           </Navbar>
-          <Route path="/" exact render={() => <HomePage title={this.state.home.title} subtitle={this.state.home.subTitle} text={this.state.home.text} />} />
-          <Route path="/" exact render={() => <AboutPage />} />
-          <Route path="/" exact render={() => <ContactPage />} />
+          <Route path="/" exact render={() => <HomePage title={this.state.home.title} subTitle={this.state.home.subTitle} text={this.state.home.text} />} />
+          <Route path="/about" render={() => <AboutPage title={this.state.about.title} />} />
+          <Route path="/contact" render={() => <ContactPage title={this.state.contact.title} />} />
 
           <Footer />
 
