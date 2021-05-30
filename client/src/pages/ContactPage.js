@@ -18,17 +18,27 @@ class ContactPage extends React.Component {
         }
 
     }
-
     handleChange = (event) => {
         console.log(event);
 
         const target = event.target;
         const value = target.type === 'checkbox' ? target.checked : target.value;
+        const name = target.name;
 
         this.setState({
             [name]: value
         })
     }
+
+    handleSubmit = (event) => {
+        event.preventDefault();
+
+        this.setState({
+            disabled: true
+            
+        })
+    }
+
     render() {
 
         return (
