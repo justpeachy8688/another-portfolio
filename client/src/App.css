@@ -46,6 +46,7 @@
   left: 0;
   bottom: 0;
   width: 100%;
+  font-size: larger;
 }
 
 .hello {
@@ -54,6 +55,13 @@
 }
 
 .about-image {
-  height: 900;
-  width: 900;
+  height: 50vh;
+  object-fit: cover;
+  display: flex;
+  margin-bottom: 4rem;
+  justify-content: center;
+}
+
+.nav-link {
+  font-size: larger;
 }
