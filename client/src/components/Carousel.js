@@ -6,7 +6,7 @@ import envision from "../assets/images/envision.png";
 import letsVenture from "../assets/images/lets+Venture.png";
 import scheduler from "../assets/images/scheduler.png";
 import teamMate from "../assets/images/team-mate.png";
-import watchNext from "../assets/images/WatchNextPic.png";
+import watchNext from "../assets/images/watchNext-pic2.png";
 import weather from "../assets/images/Weather.png";
 
 import Card from "../components/Card";
@@ -89,7 +89,7 @@ class Carousel extends React.Component {
 
     render() {
         return (
-            <Container className="justify-content-center">
+            <Container className="justify-content-center pt-5 pb-5">
                 <Row className="justify-content-around">
                     {this.makeItems(this.state.items)}
                 </Row>

@@ -3,7 +3,9 @@
   "version": "0.1.0",
   "description": "Mern Demo",
   "private": true,
+  "proxy": "http://localhost:3000/",
   "dependencies": {
+    "emailjs-com": "^2.6.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3",
