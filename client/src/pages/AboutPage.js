@@ -18,7 +18,8 @@ function AboutPage(props) {
                         <img className="mx-auto about-image" src={about} alt="paris" />
                     </div>
                 </Row>
-                    <Row className="about-text">
+                <Row className="about-text">
+                    
                         Full Stack Developer who studied at the University of Washington. I currently live in Anchorage, Alaska.
                         As I've grown as a developer, I have worked alongside many talented developers and designers who have
                         raised my standards for what's expected of any application.

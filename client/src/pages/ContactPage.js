@@ -27,6 +27,7 @@ function ContactUs(props) {
     return (
         <div>
             <Hero title={props.title} />
+          
             <Content>
                 <Form className="contact-form" onSubmit={sendEmail}>
                     <Form.Control type="hidden" name="contact_number"></Form.Control>
