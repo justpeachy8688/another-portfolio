@@ -1,10 +1,13 @@
 import React from 'react';
 import emailjs from 'emailjs-com';
 
+import Social from "../components/Social";
+
 import Hero from "../components/Hero";
 import Content from "../components/Content";
 import Form from "react-bootstrap/Form";
 import Button from "react-bootstrap/Button";
+import Row from "react-bootstrap/Row";
 
 // import './ContactUs.css';
 
@@ -39,7 +42,12 @@ function ContactUs(props) {
                         <Button type="submit" value="Send" >Send</Button>
                     </Form.Row>
                 </Form>
+                <br />
+                <Row className="text-center pt-5">
+                    <Social />
+                </Row>
             </Content>
+
         </div >
 
 

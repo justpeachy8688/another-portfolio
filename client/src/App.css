@@ -30,6 +30,7 @@
 .main-content {
   background-color: rgb(28, 31, 41);
   color: rgb(168, 186, 219);
+  height: 100vh;
 }
 
 .about-paragraph {
@@ -38,4 +39,21 @@
 
 .text-center {
   font-weight: 700;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.hello {
+  font-weight: 400;
+  font-size: 8em;
+}
+
+.about-image {
+  height: 900;
+  width: 900;
 }
