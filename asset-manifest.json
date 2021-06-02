@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.00a36ee1.chunk.css",
-    "main.js": "/static/js/main.6f8d1893.chunk.js",
-    "main.js.map": "/static/js/main.6f8d1893.chunk.js.map",
+    "main.js": "/static/js/main.86bb7620.chunk.js",
+    "main.js.map": "/static/js/main.86bb7620.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.992eac29.js",
     "runtime-main.js.map": "/static/js/runtime-main.992eac29.js.map",
     "static/css/2.3a0c7bd3.chunk.css": "/static/css/2.3a0c7bd3.chunk.css",
-    "static/js/2.e7778ad2.chunk.js": "/static/js/2.e7778ad2.chunk.js",
-    "static/js/2.e7778ad2.chunk.js.map": "/static/js/2.e7778ad2.chunk.js.map",
+    "static/js/2.5b9102de.chunk.js": "/static/js/2.5b9102de.chunk.js",
+    "static/js/2.5b9102de.chunk.js.map": "/static/js/2.5b9102de.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.b7a9e88255c0b3ded42294d9f29d42a1.js": "/precache-manifest.b7a9e88255c0b3ded42294d9f29d42a1.js",
+    "precache-manifest.e571d3cd57f2355d1d612e8b3e433dc4.js": "/precache-manifest.e571d3cd57f2355d1d612e8b3e433dc4.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.3a0c7bd3.chunk.css.map": "/static/css/2.3a0c7bd3.chunk.css.map",
     "static/css/main.00a36ee1.chunk.css.map": "/static/css/main.00a36ee1.chunk.css.map",
-    "static/js/2.e7778ad2.chunk.js.LICENSE.txt": "/static/js/2.e7778ad2.chunk.js.LICENSE.txt",
+    "static/js/2.5b9102de.chunk.js.LICENSE.txt": "/static/js/2.5b9102de.chunk.js.LICENSE.txt",
     "static/media/Weather.png": "/static/media/Weather.237d407c.png",
     "static/media/envision.png": "/static/media/envision.de6aa7c4.png",
     "static/media/lets+Venture.png": "/static/media/lets+Venture.80350441.png",
@@ -25,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.992eac29.js",
     "static/css/2.3a0c7bd3.chunk.css",
-    "static/js/2.e7778ad2.chunk.js",
+    "static/js/2.5b9102de.chunk.js",
     "static/css/main.00a36ee1.chunk.css",
-    "static/js/main.6f8d1893.chunk.js"
+    "static/js/main.86bb7620.chunk.js"
   ]
 }
