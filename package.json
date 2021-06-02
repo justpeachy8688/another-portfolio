@@ -1,8 +1,8 @@
 {
-  "homepage": "https://justpeachy8688.github.io/",
-  "name": "mern",
+  "homepage": "https://justpeachy8688.github.io/another-portfolio/",
+  "name": "portfolio",
   "version": "0.1.0",
-  "description": "Mern Demo",
+  "description": "Portfolio",
   "private": true,
   "proxy": "http://localhost:3000/",
   "dependencies": {
