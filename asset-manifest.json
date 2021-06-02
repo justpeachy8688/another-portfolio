@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/another-portfolio/static/css/main.00a36ee1.chunk.css",
-    "main.js": "/another-portfolio/static/js/main.96dc6bef.chunk.js",
-    "main.js.map": "/another-portfolio/static/js/main.96dc6bef.chunk.js.map",
+    "main.js": "/another-portfolio/static/js/main.d42b1c0f.chunk.js",
+    "main.js.map": "/another-portfolio/static/js/main.d42b1c0f.chunk.js.map",
     "runtime-main.js": "/another-portfolio/static/js/runtime-main.d6dba6d9.js",
     "runtime-main.js.map": "/another-portfolio/static/js/runtime-main.d6dba6d9.js.map",
     "static/css/2.3a0c7bd3.chunk.css": "/another-portfolio/static/css/2.3a0c7bd3.chunk.css",
-    "static/js/2.4ca9c112.chunk.js": "/another-portfolio/static/js/2.4ca9c112.chunk.js",
-    "static/js/2.4ca9c112.chunk.js.map": "/another-portfolio/static/js/2.4ca9c112.chunk.js.map",
+    "static/js/2.0b36b9c8.chunk.js": "/another-portfolio/static/js/2.0b36b9c8.chunk.js",
+    "static/js/2.0b36b9c8.chunk.js.map": "/another-portfolio/static/js/2.0b36b9c8.chunk.js.map",
     "index.html": "/another-portfolio/index.html",
-    "precache-manifest.5baee6a24159e7c839e0e86659784500.js": "/another-portfolio/precache-manifest.5baee6a24159e7c839e0e86659784500.js",
+    "precache-manifest.50400cad2814da3ee578d96c82df135b.js": "/another-portfolio/precache-manifest.50400cad2814da3ee578d96c82df135b.js",
     "service-worker.js": "/another-portfolio/service-worker.js",
     "static/css/2.3a0c7bd3.chunk.css.map": "/another-portfolio/static/css/2.3a0c7bd3.chunk.css.map",
     "static/css/main.00a36ee1.chunk.css.map": "/another-portfolio/static/css/main.00a36ee1.chunk.css.map",
-    "static/js/2.4ca9c112.chunk.js.LICENSE.txt": "/another-portfolio/static/js/2.4ca9c112.chunk.js.LICENSE.txt",
+    "static/js/2.0b36b9c8.chunk.js.LICENSE.txt": "/another-portfolio/static/js/2.0b36b9c8.chunk.js.LICENSE.txt",
     "static/media/Weather.png": "/another-portfolio/static/media/Weather.237d407c.png",
     "static/media/envision.png": "/another-portfolio/static/media/envision.de6aa7c4.png",
     "static/media/lets+Venture.png": "/another-portfolio/static/media/lets+Venture.80350441.png",
@@ -25,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.d6dba6d9.js",
     "static/css/2.3a0c7bd3.chunk.css",
-    "static/js/2.4ca9c112.chunk.js",
+    "static/js/2.0b36b9c8.chunk.js",
     "static/css/main.00a36ee1.chunk.css",
-    "static/js/main.96dc6bef.chunk.js"
+    "static/js/main.d42b1c0f.chunk.js"
   ]
 }
