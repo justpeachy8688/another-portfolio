@@ -5,11 +5,11 @@
 .main-content {
   background-color: rgb(28, 31, 41);
   color: rgb(168, 186, 219);
-  height: 100vh;
+  height: 130vh;
 }
 
 .about-paragraph {
-  font-size: 24px;
+  font-size: 15px;
 }
 
 .text-center {
@@ -36,6 +36,7 @@
   margin-bottom: 4rem;
   justify-content: center;
 }
+
 /* 
 .about-pic {
   background-image: url('./assets/images/paris.png');
@@ -48,6 +49,4 @@
   font-size: larger;
 }
 
-.about-text {
-  font-size: larger;
-}
+.about-text {}
