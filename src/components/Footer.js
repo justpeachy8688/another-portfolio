@@ -11,8 +11,8 @@ function Footer() {
                         Taylor Sanders
         </Col>
                     <Col className="p-0 d-flex justify-content-end" md={3}>
-                        This site was made by Taylor Sanders.
-        </Col>
+
+                    </Col>
                 </Row>
             </Container>
         </footer>
