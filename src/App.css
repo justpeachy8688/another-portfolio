@@ -17,7 +17,7 @@
 }
 
 .footer {
-  position: fixed;
+  position: relative;
   left: 0;
   bottom: 0;
   width: 100%;
@@ -49,4 +49,7 @@
   font-size: larger;
 }
 
-.about-text {}
+.about-text {
+  font-size: 1.4rem;
+  text-align: center;
+}

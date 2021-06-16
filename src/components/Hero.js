@@ -12,9 +12,9 @@ function Hero(props) {
             <Container className="text-center" fluid={true}>
                 <Row className="justify-content-center text-align-center">
                     <Col className="pt-5 pb-5 text-center" md={8} sm={12}>
-                        {props.title && <h1 className="hello font-weight-bolder">{props.title}</h1>}
-                        {props.subTitle && <h3 className="display-4 font-weight-light">{props.subTitle}</h3>}
-                        {props.text && <h3 className="lead font-weight-light">{props.text}</h3>}
+                        {props.title && <h2 className="hello font-weight-bolder">{props.title}</h2>}
+                        {props.subTitle && <h4 className="display-4 font-weight-light">{props.subTitle}</h4>}
+                        {props.text && <h5 className="lead font-weight-light">{props.text}</h5>}
                     </Col>
                 </Row>
             </Container>
