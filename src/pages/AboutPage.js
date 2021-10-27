@@ -20,12 +20,10 @@ function AboutPage(props) {
                 </Row>
                 <Row className="about-text">
                     
-                        Full Stack Developer who studied at the University of Washington. I currently live in Anchorage, Alaska.
-                        As I've grown as a developer, I have worked alongside many talented developers and designers who have
-                        raised my standards for what's expected of any application.
-                        Through these experiences, I've had the opportunity to create memorable products that are not only
-                        enjoyable to use but
-                        are written in code that's maintainable and easy to understand.
+                        I am currently a Computer Science and Engineering student at the University of Alaska Anchorage. I am recently certified in Full Stack Web Development from the University of Washington. I currently live in Anchorage, Alaska.
+                        As I've grown as a developer and designer, I have worked alongside many talented people who have
+                        raised my standards for what's expected of any product.
+                        I am both driven and self motivated, and I am constantly experimenting with new technologies and techniques. I am very passionate about Web Development, and strive to always better myself in the field.
                         
                 </Row>
             </Content >
